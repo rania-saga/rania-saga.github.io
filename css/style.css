@@ -475,7 +475,8 @@ img.svg{
 }
 .arlo_tm_hero_header_wrap .text_typing p{
 	color: #fff;
-	font-size: 24px;
+	font-size: 36px;
+	font-weight: bold;
 	font-family: "Montserrat";
 }
 .arlo_tm_animation_text_word{
@@ -1019,6 +1020,7 @@ img.svg{
 	margin: 0px 0px 30px 0px;
 	float: left;
 	width: 33.3333%;
+	height: 330px;
 	padding-left: 30px;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
